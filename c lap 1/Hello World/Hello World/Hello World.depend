@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730119196 source:d:\iti sd\c lap\c lap 1\hello world\hello world\main.c
+	<stdio.h>
+	<stdlib.h>
+
