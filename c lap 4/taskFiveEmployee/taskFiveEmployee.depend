@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1730290534 source:d:\iti sd\c lap\c lap 4\taskfiveemployee\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+

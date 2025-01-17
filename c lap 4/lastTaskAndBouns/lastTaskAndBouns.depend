@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1730637761 source:d:\iti sd\c lap\c lap 4\lasttaskandbouns\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+

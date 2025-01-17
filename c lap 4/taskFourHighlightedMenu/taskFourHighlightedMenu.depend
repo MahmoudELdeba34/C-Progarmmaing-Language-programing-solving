@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730288443 source:d:\iti sd\c lap\c lap 4\taskfourhighlightedmenu\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
