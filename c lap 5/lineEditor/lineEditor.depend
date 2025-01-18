@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1730646287 source:d:\iti sd\c lap\c lap 5\lineeditor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
