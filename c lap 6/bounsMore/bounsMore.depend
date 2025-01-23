@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1730962015 source:d:\iti sd\c lap\c lap 6\bounsmore\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+

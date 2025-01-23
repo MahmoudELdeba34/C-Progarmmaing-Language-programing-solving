@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1730891543 source:d:\iti sd\c lap\c lap 6\employeeconvertscantolineeditor\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+
